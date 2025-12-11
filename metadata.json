@@ -1,5 +1,5 @@
 {
-  "name": "ThermalFlow Vision",
+  "name": "ThermalFlow Vision 1",
   "description": "Real-time interactive fluid thermal imaging using ML segmentation and physics simulation.",
   "requestFramePermissions": [
     "camera"
